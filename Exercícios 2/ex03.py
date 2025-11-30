@@ -1,0 +1,5 @@
+n1 = input ('Valor de venda: ')
+n2 = input ('Valor de entrada: ')
+nm1 = int (n1)
+nm2 = int (n2)
+print('O valor do crédito solicitado é de: R$',nm1-nm2)
